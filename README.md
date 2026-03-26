@@ -2,6 +2,8 @@
 
 ## Anotações da aula - 24/03
 
+## Aprendendo sobre como organizar meus repositórios e trabalhar colaborativamente
+
 ---
 
 ## Estrutura básica
